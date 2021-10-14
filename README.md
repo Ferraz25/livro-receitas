@@ -6,3 +6,5 @@ Olá! Bem vindo ao meu livro de receitas
 * Pavê
 * Lasanha
 * Macarronada
+* Pizza
+
